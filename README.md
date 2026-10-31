@@ -1,9 +1,7 @@
 # Slickmap CSS
 
-**A Visual Sitemapping Tool for Web Developers**
-
-Created by Matt Everson of Astuteo  
-[https://www.astuteo.com/slickmap](https://www.astuteo.com/slickmap)
+Archived. A copy of Slickmap CSS by Matt Everson of Astuteo, kept for reference. It is not maintained here.
+The original is at [https://www.astuteo.com/slickmap](https://www.astuteo.com/slickmap). The licence is in `license.md`.
 
 ### Improvements in Version 2
 
